@@ -1,2 +1,0 @@
-# babyApp
-Created with CodeSandbox
